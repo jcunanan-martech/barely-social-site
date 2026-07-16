@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <radialGradient id="g1" cx="8%" cy="25%" r="55%">
+      <stop offset="0" stop-color="#9EFF8C" stop-opacity=".24"/>
+      <stop offset=".52" stop-color="#9EFF8C" stop-opacity=".06"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="96%" cy="40%" r="48%">
+      <stop offset="0" stop-color="#9EFF8C" stop-opacity=".34"/>
+      <stop offset=".54" stop-color="#9EFF8C" stop-opacity=".08"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#000000"/>
+  <rect width="1200" height="630" fill="url(#g1)"/>
+  <rect width="1200" height="630" fill="url(#g2)"/>
+  <g opacity=".22">
+    <circle cx="80" cy="255" r="2" fill="#9EFF8C"/>
+    <circle cx="112" cy="255" r="2" fill="#9EFF8C"/>
+    <circle cx="144" cy="255" r="2" fill="#9EFF8C"/>
+    <circle cx="80" cy="287" r="2" fill="#9EFF8C"/>
+    <circle cx="112" cy="287" r="2" fill="#9EFF8C"/>
+    <circle cx="144" cy="287" r="2" fill="#9EFF8C"/>
+    <circle cx="80" cy="319" r="2" fill="#9EFF8C"/>
+    <circle cx="112" cy="319" r="2" fill="#9EFF8C"/>
+    <circle cx="144" cy="319" r="2" fill="#9EFF8C"/>
+  </g>
+  <path d="M968 158c22 0 37-15 37-37 0 22 15 37 37 37-22 0-37 15-37 37 0-22-15-37-37-37Z" fill="#9EFF8C"/>
+  <path d="M160 470c18 0 30-12 30-30 0 18 12 30 30 30-18 0-30 12-30 30 0-18-12-30-30-30Z" fill="#9EFF8C"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="900">
+    <text x="90" y="120" font-size="38" fill="#ffffff">Barely</text>
+    <text x="233" y="120" font-size="38" fill="#9EFF8C">Social.</text>
+    <text x="90" y="268" font-size="72" fill="#9EFF8C">Landing pages,</text>
+    <text x="90" y="346" font-size="72" fill="#ffffff">automations,</text>
+    <text x="90" y="424" font-size="72" fill="#ffffff">and lifecycle workflows.</text>
+  </g>
+  <rect x="760" y="456" width="330" height="72" rx="36" fill="#9EFF8C"/>
+  <text x="807" y="502" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" fill="#082013">Free Systems Audit</text>
+</svg>
